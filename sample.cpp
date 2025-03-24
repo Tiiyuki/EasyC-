@@ -7,4 +7,4 @@ int main()
 
     return 0;
 
-}
+}git push -u origin maingit push -u origin main
